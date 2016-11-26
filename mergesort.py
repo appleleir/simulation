@@ -1,3 +1,4 @@
+#coding=utf-8
 #/usr/bin/env python
 "mergesort"
 N =[1,2,3,4,2,3,4,3,5,23]

@@ -1,12 +1,4 @@
-% /*************************************************************************************
-%
-%    Project Name:  802.11ad Transmitter
-%    File Name:     genLDPCparity.m
-%    Authors:       Prem Kiran Nerella
-%    Version:       1.0
-%    History:       May 2014 created
-%
-%  *************************************************************************************
+
 %    Description:
 % 
 %    function generates LDPC parity bits for specified LDPC generator
